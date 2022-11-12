@@ -1,0 +1,20 @@
+.mybutton{
+    border: none;
+    background-color:blue;
+    padding:10px;
+    border: 25px;
+
+}
+.btn{
+    background-color: rgb(254,124,95) !important;
+    color: #fff !important;
+}
+
+#id{
+    font-size: 440px;
+}
+
+h1{
+    background-color: rgb(254,124,95) !important;
+    color: #fff !important;
+}
